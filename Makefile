@@ -1,5 +1,5 @@
 PKG_NAME := pypi-shelved_cache
-URL = https://files.pythonhosted.org/packages/38/c0/4ec3d79c9167ab7cd28b4a2808fa05d58e47745a001108a77429fdaf3015/shelved_cache-0.3.1.tar.gz
+URL = https://files.pythonhosted.org/packages/35/f8/f305abd2649539a059147df87fbce38ae2aae15fe982010a8f7162a6fe6b/shelved_cache-0.4.0.tar.gz
 ARCHIVES = 
 
 include ../common/Makefile.common
