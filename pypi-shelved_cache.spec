@@ -7,7 +7,7 @@
 #
 Name     : pypi-shelved_cache
 Version  : 0.4.0
-Release  : 3
+Release  : 4
 URL      : https://files.pythonhosted.org/packages/35/f8/f305abd2649539a059147df87fbce38ae2aae15fe982010a8f7162a6fe6b/shelved_cache-0.4.0.tar.gz
 Source0  : https://files.pythonhosted.org/packages/35/f8/f305abd2649539a059147df87fbce38ae2aae15fe982010a8f7162a6fe6b/shelved_cache-0.4.0.tar.gz
 Summary  : Persistent cache for Python cachetools.
